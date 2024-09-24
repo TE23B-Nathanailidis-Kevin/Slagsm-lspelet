@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevin.nathanailidis\\Documents\\Programmering 1\\Slagsmålspelet\\Slagsmålspelet\\Slagsmålspelet.csproj": {}
+    "c:\\Users\\kevin.nathanailidis\\Documents\\Programmering 1\\Slagsmålspelet\\Slagsmålspelet\\Slagsmålspelet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevin.nathanailidis\\Documents\\Programmering 1\\Slagsmålspelet\\Slagsmålspelet\\Slagsmålspelet.csproj": {
+    "c:\\Users\\kevin.nathanailidis\\Documents\\Programmering 1\\Slagsmålspelet\\Slagsmålspelet\\Slagsmålspelet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin.nathanailidis\\Documents\\Programmering 1\\Slagsmålspelet\\Slagsmålspelet\\Slagsmålspelet.csproj",
+        "projectUniqueName": "c:\\Users\\kevin.nathanailidis\\Documents\\Programmering 1\\Slagsmålspelet\\Slagsmålspelet\\Slagsmålspelet.csproj",
         "projectName": "Slagsmålspelet",
-        "projectPath": "C:\\Users\\kevin.nathanailidis\\Documents\\Programmering 1\\Slagsmålspelet\\Slagsmålspelet\\Slagsmålspelet.csproj",
+        "projectPath": "c:\\Users\\kevin.nathanailidis\\Documents\\Programmering 1\\Slagsmålspelet\\Slagsmålspelet\\Slagsmålspelet.csproj",
         "packagesPath": "C:\\Users\\kevin.nathanailidis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin.nathanailidis\\Documents\\Programmering 1\\Slagsmålspelet\\Slagsmålspelet\\obj\\",
+        "outputPath": "c:\\Users\\kevin.nathanailidis\\Documents\\Programmering 1\\Slagsmålspelet\\Slagsmålspelet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin.nathanailidis\\AppData\\Roaming\\NuGet\\NuGet.Config"
